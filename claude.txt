@@ -1,5 +1,27 @@
 # Project Overzicht
-Dit project is een nieuw initiatief dat met behulp van Claude AI wordt ontwikkeld. Het doel van het project zal worden bepaald in de eerste ontwikkelstappen.
+Dit project is een Persoonlijke Taakbeheer Applicatie die gebruikers helpt bij het organiseren, prioriteren en bijhouden van hun dagelijkse taken en projecten. De applicatie biedt een eenvoudige maar krachtige interface om taken te beheren, herinneringen in te stellen en voortgang bij te houden.
+
+## Doel
+Het hoofddoel van dit project is om een gebruiksvriendelijke taakbeheer-tool te ontwikkelen die mensen helpt hun productiviteit te verhogen en stress te verminderen door een duidelijk overzicht te bieden van hun taken en verplichtingen.
+
+## Doelgroep
+- Professionals die meerdere projecten en taken moeten beheren
+- Studenten die hun studie-opdrachten en deadlines willen bijhouden
+- Iedereen die behoefte heeft aan een georganiseerde manier om persoonlijke taken te beheren
+
+## Kernfunctionaliteit
+- Taken aanmaken, bewerken en verwijderen
+- Taken categoriseren in projecten of categorieën
+- Prioriteiten toekennen aan taken
+- Deadlines instellen en herinneringen ontvangen
+- Voortgang bijhouden en voltooide taken markeren
+- Eenvoudige zoek- en filterfunctionaliteit
+
+## Scope-grenzen
+- Geen team-samenwerking of taakdelegatie (alleen persoonlijk gebruik)
+- Geen integratie met externe kalenders of e-mailsystemen in de eerste versie
+- Geen geavanceerde rapportage of analytische functies
+- Geen mobiele app in de eerste fase (alleen web-based)
 
 # Architectuur
 De modulestructuur zal worden bepaald tijdens de ontwikkeling.
