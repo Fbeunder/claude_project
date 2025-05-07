@@ -1,13 +1,20 @@
 # Volgende stappen
 
+## Huidige status
+1. ✅ Definieer het doel en de scope van het project (PR #2 wacht op goedkeuring)
+
 ## Must-haves
-1. Definieer het doel en de scope van het project
-2. Bepaal de basisarchitectuur en modulestructuur
-3. Implementeer de kernfunctionaliteit
+1. Bepaal de basisarchitectuur en modulestructuur (Issue #3)
+2. Implementeer de datamodellen voor taken en projecten
+3. Implementeer de kernfunctionaliteit voor taakbeheer
+4. Ontwikkel de gebruikersinterface
+5. Implementeer de opslagfunctionaliteit
 
 ## Nice-to-haves
 1. Documentatie verbeteren
 2. Testen toevoegen
 3. UI/UX verbeteringen
+4. Zoek- en filterfunctionaliteit
+5. Herinneringen en notificaties
 
 De volgende stappen zijn noodzakelijk voor de basiswerking van de applicatie.
