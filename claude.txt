@@ -1,0 +1,8 @@
+# Project Overzicht
+Dit project is een nieuw initiatief dat met behulp van Claude AI wordt ontwikkeld. Het doel van het project zal worden bepaald in de eerste ontwikkelstappen.
+
+# Architectuur
+De modulestructuur zal worden bepaald tijdens de ontwikkeling.
+
+# Modules
+Nog geen modules gedefinieerd.
