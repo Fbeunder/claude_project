@@ -1,0 +1,13 @@
+# Volgende stappen
+
+## Must-haves
+1. Definieer het doel en de scope van het project
+2. Bepaal de basisarchitectuur en modulestructuur
+3. Implementeer de kernfunctionaliteit
+
+## Nice-to-haves
+1. Documentatie verbeteren
+2. Testen toevoegen
+3. UI/UX verbeteringen
+
+De volgende stappen zijn noodzakelijk voor de basiswerking van de applicatie.
